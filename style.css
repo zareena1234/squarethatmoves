@@ -1,0 +1,4 @@
+.heading {font-size:25px; width:100%; margin:0px;box-shadow:15px 15px 20px palevioletred; font-family: 'Sansita Swashed', cursive;}
+.note{font-size:12px; color:blueviolet}
+canvas{border:5px solid cyan; border-radius:20px; box-shadow:15px 15px 20px deeppink;}
+.copyright_footer{position:fixed; text-align:center; width:100%; bottom:0; color:white;background-color:black;}
